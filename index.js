@@ -15,19 +15,11 @@ request('https://raw.githubusercontent.com/mzegar/dota2-api/e04b622288427ae6b41f
 // This allows it so commands can be used like... !lastmatch fogell
 // Instead of using their DOTA ID any custom string will work
 var database = [
-    ['matt', '49604109'],
-    ['fogell', '78019306'],
-    ['aggressive', '384363192'],
-    ['helper', '457659216'],
-    ['psychiatric', '134235356'],
-    ['ben', '80162306'],
-    ['josh', '80688700'],
-    ['joshALT', '223329215'],
-    ['chup', '71220683'],
-    ['jonko', '89100568'],
-    ['ryan', '569142'],
-    ['gar', '94210317'],
-    ['jimson', '34483138']
+    ['Mjolnir', '18248929'],
+    ['heckrun', '45176216'],
+    ['Taeyeon', '106587565'],
+    ['Fr0zen', '18433098'],
+    ['ecollapse', '55993535']
 ];
 
 function appendURL(url1, id, url2) {
