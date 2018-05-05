@@ -19,6 +19,7 @@ var database = [
     ['heckrun', '45176216'],
     ['Raigor', '5721142'],
     ['Taeyeon', '106587565'],
+    ['IUDaebak', '40256922'],
     ['Fr0zen', '18433098'],
     ['monstercc', '21368052'],
     ['ecollapse', '55993535']
