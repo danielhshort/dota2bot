@@ -17,6 +17,7 @@ request('https://raw.githubusercontent.com/mzegar/dota2-api/e04b622288427ae6b41f
 var database = [
     ['Mjolnir', '18248929'],
     ['heckrun', '45176216'],
+    ['Raigor', '5721142'],
     ['Taeyeon', '106587565'],
     ['Fr0zen', '18433098'],
     ['monstercc', '21368052'],
