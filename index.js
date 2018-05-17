@@ -23,6 +23,7 @@ var database = [
     ['IUDaebak', '40256922'],
     ['Fr0zen', '18433098'],
     ['monstercc', '21368052'],
+    ['Ulamog wants a hug', '45465959'],
     ['ecollapse', '55993535']
 ];
 
